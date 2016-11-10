@@ -4,6 +4,8 @@ require('./src/_jquery.bind-first.js');
 require('./src/_jquery.simulate.js');
 require('jquery-form');
 
+require('./native.history.js');
+
 import {AJAX} from "./src/AJAX.js";
 import {Permissions} from "./src/Permissions.js";
 import {TwigExtensions} from "./src/TwigExtensions.js";
