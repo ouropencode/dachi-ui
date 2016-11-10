@@ -2,7 +2,6 @@ require("./less/styles.less");
 
 require('./src/_jquery.bind-first.js');
 require('./src/_jquery.simulate.js');
-window.History = require('./src/_native.history.js');
 require('jquery-form');
 
 import {AJAX} from "./src/AJAX.js";

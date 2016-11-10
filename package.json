@@ -1,6 +1,6 @@
 {
   "name": "dachi-ui",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "",
   "main": "lib/dachi-ui.js",
   "scripts": {
@@ -30,8 +30,6 @@
     "babel-core": "^6.17.0",
     "babel-loader": "^6.2.5",
     "babel-preset-es2015": "^6.16.0",
-    "bower-webpack-plugin": "^0.1.9",
-    "copy-webpack-plugin": "^4.0.0",
     "css-loader": "^0.25.0",
     "file-loader": "^0.9.0",
     "less": "^2.7.1",

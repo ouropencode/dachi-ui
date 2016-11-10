@@ -4,6 +4,7 @@ const EventEmitter2 = require('eventemitter2').EventEmitter2;
 const Pace = require('pace-progress');
 const Twig = require('twig');
 const alertify = require('alertify-webpack');
+const History = require('./_native.history.js');
 
 export class AJAX extends EventEmitter2 {
 
