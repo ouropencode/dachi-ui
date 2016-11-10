@@ -1,6 +1,6 @@
 {
   "name": "dachi-ui",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "",
   "main": "lib/dachi-ui.js",
   "scripts": {

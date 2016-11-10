@@ -2,9 +2,9 @@ require("./less/styles.less");
 
 require('./src/_jquery.bind-first.js');
 require('./src/_jquery.simulate.js');
+require('./src/_native.history.js');
 require('jquery-form');
 
-require('./native.history.js');
 
 import {AJAX} from "./src/AJAX.js";
 import {Permissions} from "./src/Permissions.js";
